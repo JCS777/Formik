@@ -20,4 +20,13 @@ The email error message should be within a div element that has the ID emailErro
 The password input field should have the ID pswField </br>
 The password error message should be within a div element that has an ID pswError </br>
 The submit button should have an ID submitBtn </br>
+</br>
+# Instructions</br>
+</br>
+Download the project files in the Formik folder.</br>
+Open a command line on your computer and run the command cd path/to/project/root, which allows you to point to the root folder of the starter files (note that path/to/project/root should be replaced with the actual path to the starter files).</br>
+Within the same command-line window, run npm install to install all dependencies.</br>
+Once the command completes successfully, run npm start to start the application in your browser.</br>
+
+
 
